@@ -1,0 +1,126 @@
+.banner{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.intro{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.text1{
+    text-align: center;
+}
+.carrusel-total{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.inferior_imfo{
+    text-align: center;
+    border-radius: 10px;
+    padding: 10px;
+    margin-top: 40px;
+    margin: auto;
+    margin-top: 20px;
+    box-shadow: 4px 4px 8px rgba(0, 0, 0, 0.3);
+}
+.texto_gastronomia{
+    text-align: center;
+    border-radius: 50px;
+    padding: 50px;
+}
+.img_gastronomia{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 75px;
+}
+.texto_computacion{
+    text-align: center;
+    border-radius: 50px;
+    padding: 50px;
+}
+.img_computacion{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+}
+.texto_tae{
+    text-align: center;
+    border-radius: 50px;
+    padding: 50px 
+}
+.img_tae{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    
+}
+.img_basico{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+}
+.social-media {
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    align-items: center;
+}
+
+.social-icon {
+    color: #000;
+    font-size: 2rem;
+    text-decoration: none;
+}
+
+.social-icon:hover {
+    color: #007bff; 
+}
+.redes{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.escuela_h{
+    box-shadow: 8px 8px 8px rgba(0, 0, 0, 0.3);
+    text-align: center;
+    border-radius: 50px;
+    padding: 50px ;
+    margin-top: 25px;
+    
+    
+}
+.img_escuela{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+}
+body {
+    background-color: #f4f4f4;
+    padding: 20px;
+    text-align: center;
+    border-top: 1px solid grey;
+}
+.footer-content {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.footer-content p {
+    margin: 5px 0;
+}
+
+.footer-content a {
+    color: #333;
+    text-decoration: none;
+}
+
+.footer-content a:hover {
+    text-decoration: underline;
+}
