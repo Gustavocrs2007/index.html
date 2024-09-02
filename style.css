@@ -23,7 +23,7 @@
     margin-top: 40px;
     margin: auto;
     margin-top: 20px;
-    box-shadow: 4px 4px 8px rgba(0, 0, 0, 0.3);
+    box-shadow: 12px 12px 15px rgba(0, 0, 0, 0.5);
 }
 .texto_gastronomia{
     text-align: center;
@@ -87,7 +87,7 @@
     align-items: center;
 }
 .escuela_h{
-    box-shadow: 8px 8px 8px rgba(0, 0, 0, 0.3);
+    box-shadow: 12px 12px 15px rgba(0, 0, 0, 0.5);
     text-align: center;
     border-radius: 50px;
     padding: 50px ;
@@ -123,4 +123,14 @@ body {
 
 .footer-content a:hover {
     text-decoration: underline;
+}
+.resaltado {
+    background-color: yellow; 
+    color: black;
+    padding: 2px; 
+}
+.texto-rosado {
+    background-color: #FFC0CB; 
+    color: black;
+    padding: 2px; 
 }
